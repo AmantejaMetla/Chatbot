@@ -1,0 +1,17 @@
+{
+    "simple_patterns": {
+        "hello|hi|hey": "Hello! How can I assist you today?",
+        "how are you": "I'm just a program, but I'm doing great! How about you?",
+        "your name": "I'm your friendly chatbot. You can call me ChatBot!",
+        "help|support": "Sure! Please tell me what you need help with.",
+        "bye": "Goodbye! It was nice talking to you.",
+        "how do i count to ten": "You can count to ten by saying: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10!",
+        "10": "That's a number! How can I help you further?"
+    },
+    "semantic_patterns": {
+        "I need assistance": "Of course! Please tell me more about your issue.",
+        "Can you help me with something?": "I'd love to help! What do you need assistance with?",
+        "tell me about yourself": "I'm just a chatbot, here to assist you with any queries!"
+    }
+}
+
