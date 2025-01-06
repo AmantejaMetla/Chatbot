@@ -128,6 +128,4 @@ This project is a chatbot application designed to provide responses based on pre
 - Designing an intuitive GUI layout.
 
 ---
-
-Would you like me to format this and save it as a new README file or update the existing one?
  
