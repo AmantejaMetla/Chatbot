@@ -6,7 +6,7 @@ from pattern_matching import load_responses, get_response
 responses = load_responses("dialogs.txt")
 
 # OpenAI API Key setup
-openai.api_key = os.getenv("OPENAI_API_KEY")  # Set this in your environment
+openai.api_key = os.getenv("OPENAI_API_KEY")  # Setted thus in my environment
 
 def ask_openai(prompt):
     try:
@@ -27,7 +27,7 @@ def ask_openai(prompt):
 
 
 def chatbot_response(user_input):
-    # Try getting a response from the dataset first
+    # Trying to get a response from the dataset first
     response = get_response(user_input, responses)
 
     # If no match, fallback to OpenAI API
