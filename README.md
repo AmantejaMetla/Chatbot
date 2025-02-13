@@ -1,4 +1,4 @@
-Here's a step-by-step README outline for your chatbot project, written as though it was created by a student explaining the development process to their mentor:
+
 
 ---
 
